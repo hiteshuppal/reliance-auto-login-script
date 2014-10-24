@@ -27,8 +27,8 @@
 import urllib.request, urllib.error, urllib.parse, http.cookiejar, time, re, sys, socket
 from bs4 import BeautifulSoup as bs
 
-username = 'username' 
-password = 'password'
+username = 'hiteshuppal' 
+password = 'jaisiyaram'
 secret = 'secret'
 #Faster interval for paranoia mode, set to anythign you like. In seconds.
 check_interval = 10
